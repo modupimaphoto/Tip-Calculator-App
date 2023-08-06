@@ -13,7 +13,7 @@ Users can be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]((https://tiptotalizer.netlify.app/))
 
 ## My process
 ### Built with
@@ -33,4 +33,4 @@ Users can be able to:
 
 - Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/modupimaphoto)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@yourusername](https://twitter.com/modupimaphoto)
